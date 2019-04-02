@@ -1,2 +1,4 @@
 # Hello-world
-first program in github
+Hi, humans!
+I'm looking for someting but I don't know what's it.
+What should I do?
